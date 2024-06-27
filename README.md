@@ -1,6 +1,6 @@
-# grpc event streaming example
+# gRPC event streaming example
 
-Simple [client](cmd/client/main.go) and [server](cmd/server/main.go) to demonstrate how a [gRPC](https://grpc.io/) server might stream events to multiple clients.
+Simple [client](cmd/client/main.go) and [server](cmd/server/main.go) to demonstrate how a [gRPC](https://grpc.io/) server might stream events to multiple clients (based on this [proto spec](https://github.com/al-maisan/rgsproto/blob/main/proto/api.proto)).
 
 # how to build
 
